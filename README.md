@@ -1,5 +1,7 @@
 # Pandas Homework - Pandas, Pandas, Pandas
 
+* Diego Gonzalez - [@dlg410](https://github.com/dlg410)
+
 ## Background
 
 The data dive continues!
@@ -194,4 +196,4 @@ As final considerations:
 
 ### Copyright
 
-Trilogy Education Services © 2019. All Rights Reserved.
+<!-- Trilogy Education Services © 2019. All Rights Reserved. -->
